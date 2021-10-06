@@ -1,0 +1,27 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "M.S. Dhoni",
+      "dateofbirth": "1986-07-24",
+      "age": "30",
+      "gender": "male"
+    },
+    {
+      "name": "Virat Kholi",
+      "dateofbirth": "1996-07-24",
+      "age": "20",
+      "gender": "male",
+      "course": "MEAN",
+      "id": 2
+    },
+    {
+      "name": "Saniya Mirza",
+      "dateofbirth": "2006-07-24",
+      "age": "10",
+      "gender": "female",
+      "course": "Python",
+      "id": 3
+    }
+  ]
+}
